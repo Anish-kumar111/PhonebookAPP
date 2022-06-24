@@ -18,7 +18,7 @@ For Phonebook Django Backend Application
 For React Frontend Application 
 1. Go to 'Phonebook-react-UI' directory in terminal
 2. type commands 
-    1. npm install" # to insatll npm packages
+    1. npm install" # to install npm packages
     2.  "npm start"
 3. Frontend Application has been started on your browser @ http://localhost:3000/
 4. enjoy
