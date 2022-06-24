@@ -1,0 +1,65 @@
+body {
+  font-size: .875rem;
+}
+.title{
+  align-items: center;
+}
+
+.container{
+  margin: 2%;
+  background-color: #6c757d2d;
+}
+
+.buttons {
+  float: right;
+
+}
+
+.contacts{
+  margin: 2%;
+ 
+}
+
+.fa-circle-minus{
+  color :red
+}
+
+.btn-outline-primary:hover{
+  border-color:black;
+  background-color: aliceblue;
+
+}
+.btn-outline-primary{
+  margin: 0 2px 0 ;
+  border-color:#6c757d;
+  background-color: aliceblue;
+
+}
+
+.btn-outline-secondary:hover{
+  border-color:black;
+  background-color: rgb(67, 134, 205);
+
+}
+.btn-outline-secondary{
+  margin: 0 2px 0 ;
+  border-color:#6c757d;
+  background-color: rgb(193, 209, 228);
+
+}
+p{
+  color: rgb(67, 134, 205);
+  font-size: 20px;
+}
+h3{
+  color:rgb(159, 16, 16);
+}
+
+.list-group-item{
+  margin: 10px;
+  padding: 2.5rem 2rem;
+}
+
+.form-control{
+  margin-top: 10px;
+}
